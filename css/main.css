@@ -32,7 +32,7 @@ ul li {
 }
 ul li a {
     text-decoration: none;
-    color:#fff;
+    color:green;
     font-weight: 300;
 }
 
@@ -42,7 +42,7 @@ ul li a:hover {
 }
 
 .box-header {
-    color:#fff;
+    color:green;
     font-size: 30px;
     font-family: cursive;
     margin-left: 100px;
@@ -53,7 +53,7 @@ ul li a:hover {
     padding: 15px;
     border:none;
     background:rgba(250, 0, 237, 0.9);
-    color:#fff;
+    color:green;
     font-size: 15px;
     text-transform: uppercase;
     border-radius: 40px;
@@ -153,7 +153,7 @@ ul li a:hover {
 .show {
     width: 50%;
     background: rgba(0,0,0,0.3);
-    color:#fff;
+    color:green;
     margin-top: 20px;
     padding: 10px;
     border-radius: 5px;
